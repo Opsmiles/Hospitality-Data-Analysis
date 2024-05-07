@@ -11,7 +11,7 @@ This dashboard helps the hotel, delves into their revenue dynamics, gain a compr
 - Dax Concepts: Calculated measures, Calculated Column, if(), weeknum()
 - Visuals: Card, Picart, Line Chart, Tables, Icon, Stacked column chats 
 
-Dashboard link: 
+Dashboard link: https://app.powerbi.com/links/VnVTNU6CWb?ctid=7bfdaf73-929f-44a9-9c50-45e6724f145a&pbi_source=linkShare
 
 ## Problem Statement
 - What is the gap between the total revenue generated and revenue realized, and what strategies can the hotel employ to optimize revenue realization?
